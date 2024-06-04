@@ -40,9 +40,13 @@ After training the models, a new test dataset is used to assess their performanc
 You can install the required libraries using pip:
 
 !pip install numpy
+
 !pip install pandas
+
 !pip install scikit-learn
+
 !pip install matplotlib
+
 
 ## Results
 The performance of the models is visualized using various plots. Below is an example of visualization created during the project:
