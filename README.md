@@ -66,7 +66,7 @@ The confusion matrix below shows the performance of the Decision Tree Classifier
 The accuracy scores of the three models are compared in the bar chart below.
 
 ## Conclusion
-In this project, we successfully demonstrated the classification of Iris flowers into three species—Setosa, Versicolor, and Virginica—using their sepal and petal measurements. By utilizing popular Python libraries such as NumPy, Pandas, Seaborn, Matplotlib, and scikit-learn, we were able to explore the data, visualize important relationships, and build predictive models.
+In this project, I successfully demonstrated the classification of Iris flowers into three species—Setosa, Versicolor, and Virginica—using their sepal and petal measurements. By utilizing popular Python libraries such as NumPy, Pandas, Seaborn, Matplotlib, and scikit-learn, we were able to explore the data, visualize important relationships, and build predictive models.
 
 This project serves as a solid foundation for anyone looking to understand the basics of classification tasks using machine learning. It showcases the entire workflow from data preprocessing to model evaluation and highlights the importance of visualizing data and results for better interpretation.
 
