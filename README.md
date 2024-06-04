@@ -45,7 +45,7 @@ You can install the required libraries using pip:
 !pip install matplotlib
 
 ## Results
-The performance of the models is visualized using various plots. Below are some examples of visualizations created during the project:
+The performance of the models is visualized using various plots. Below is an example of visualization created during the project:
 
 ## Pair Plot
 This pair plot visualizes the relationships between different features of the Iris dataset, colored by species.
