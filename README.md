@@ -47,9 +47,12 @@ You can install the required libraries using pip:
 ## Results
 The performance of the models is visualized using various plots. Below is an example of visualization created during the project:
 
+![Scatter plot1](https://github.com/AnishaBeera/OIBSIP-Oasis-Infobyte-task1/assets/171479100/3efb49a1-573a-4481-9be5-02f8cf18f5f3)
+
 ## Pair Plot
 This pair plot visualizes the relationships between different features of the Iris dataset, colored by species.
 
+![pairplot2](https://github.com/AnishaBeera/OIBSIP-Oasis-Infobyte-task1/assets/171479100/8844fac7-cdf6-442a-9072-481b64166826)
 
 ## Confusion Matrix
 The confusion matrix below shows the performance of the Decision Tree Classifier on the test set.
